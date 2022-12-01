@@ -118,9 +118,9 @@
                       <h6>General</h6>
                     </div>
                   </li>
-                  <li class="dropdown"><a class="nav-link menu-title link-nav" href="bookmark.html"><i data-feather="heart"></i><span>Dashboard</span></a></li>
+                  <li class="dropdown"><a class="nav-link menu-title link-nav" href="bookmark.html"><i data-feather="align-justify"></i><span>Dashboard</span></a></li>
                   </li>
-                  <li class="dropdown"><a class="nav-link menu-title link-nav" href="bookmark.html"><i data-feather="heart"></i><span>Data</span></a></li>
+                  <li class="dropdown"><a class="nav-link menu-title link-nav" href="bookmark.html"><i data-feather="book"></i><span>Data</span></a></li>
                     <ul class="nav-submenu menu-content">
                       <li><a href="general-widget.html">General</a></li>
                       <li><a href="chart-widget.html">Chart</a></li>
@@ -132,7 +132,7 @@
                       <h6>Facilities</h6>
                     </div>
                   </li>
-                  <li class="dropdown"><a class="nav-link menu-title" href="javascript:void(0)"><i data-feather="box"></i><span>Homestay</span></a>
+                  <li class="dropdown"><a class="nav-link menu-title" href="javascript:void(0)"><i data-feather="moon"></i><span>Homestay</span></a>
                     <ul class="nav-submenu menu-content">
                       <li><a href="state-color.html">State color</a></li>
                       <li><a href="typography.html">Typography</a></li>
@@ -159,7 +159,7 @@
                       <li><a href="list.html">Lists</a></li>
                     </ul>
                   </li>
-                  <li class="dropdown"><a class="nav-link menu-title" href="javascript:void(0)"><i data-feather="folder-plus"></i><span>Guide Tour</span></a>
+                  <li class="dropdown"><a class="nav-link menu-title" href="javascript:void(0)"><i data-feather="map"></i><span>Guide Tour</span></a>
                     <ul class="nav-submenu menu-content">
                       <li><a href="scrollable.html">Scrollable</a></li>
                       <li><a href="tree.html">Tree view</a></li>
@@ -189,7 +189,7 @@
                       </li>
                     </ul>
                   </li>
-                  <li class="dropdown"><a class="nav-link menu-title" href="javascript:void(0)"><i data-feather="edit-3"></i><span>Art Shopping</span></a>
+                  <li class="dropdown"><a class="nav-link menu-title" href="javascript:void(0)"><i data-feather="shopping-bag"></i><span>Art Shopping</span></a>
                     <ul class="nav-submenu menu-content">
                       <li><a href="form-builder-1.html">Form Builder 1</a></li>
                       <li><a href="form-builder-2.html">Form Builder 2</a></li>
