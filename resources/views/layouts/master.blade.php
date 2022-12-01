@@ -118,13 +118,9 @@
                       <h6>General</h6>
                     </div>
                   </li>
-                  <li class="dropdown"><a class="nav-link menu-title link-nav" href="bookmark.html"><i data-feather="align-justify"></i><span>Dashboard</span></a></li>
+                  <li class="dropdown"><a class="nav-link menu-title link-nav" href="/"><i data-feather="align-justify"></i><span>Dashboard</span></a></li>
                   </li>
                   <li class="dropdown"><a class="nav-link menu-title link-nav" href="bookmark.html"><i data-feather="book"></i><span>Data</span></a></li>
-                    <ul class="nav-submenu menu-content">
-                      <li><a href="general-widget.html">General</a></li>
-                      <li><a href="chart-widget.html">Chart</a></li>
-                    </ul>
                   </li>
                   
                   <li class="sidebar-main-title">
@@ -134,69 +130,12 @@
                   </li>
                   <li class="dropdown"><a class="nav-link menu-title" href="javascript:void(0)"><i data-feather="moon"></i><span>Homestay</span></a>
                     <ul class="nav-submenu menu-content">
-                      <li><a href="state-color.html">State color</a></li>
-                      <li><a href="typography.html">Typography</a></li>
-                      <li><a href="avatars.html">Avatars</a></li>
-                      <li><a href="helper-classes.html">helper classes</a></li>
-                      <li><a href="grid.html">Grid</a></li>
-                      <li><a href="tag-pills.html">Tag & pills</a></li>
-                      <li><a href="progress-bar.html">Progress</a></li>
-                      <li><a href="modal.html">Modal</a></li>
-                      <li><a href="alert.html">Alert</a></li>
-                      <li><a href="popover.html">Popover</a></li>
-                      <li><a href="tooltip.html">Tooltip</a></li>
-                      <li><a href="loader.html">Spinners</a></li>
-                      <li><a href="dropdown.html">Dropdown</a></li>
-                      <li><a href="according.html">Accordion</a></li>
-                      <li><a class="submenu-title" href="javascript:void(0)">Tabs<span class="sub-arrow"><i class="fa fa-chevron-right"></i></span></a>
-                        <ul class="nav-sub-childmenu submenu-content">
-                          <li><a href="tab-bootstrap.html">Bootstrap Tabs</a></li>
-                          <li><a href="tab-material.html">Line Tabs</a></li>
-                        </ul>
-                      </li>
-                      <li><a href="navs.html">Navs</a></li>
-                      <li><a href="box-shadow.html">Shadow</a></li>
-                      <li><a href="list.html">Lists</a></li>
+                      <li><a href="state-color.html">View Visitors</a></li>
+                      <li><a href="avatars.html">Add Visitors</a></li>
                     </ul>
                   </li>
-                  <li class="dropdown"><a class="nav-link menu-title" href="javascript:void(0)"><i data-feather="map"></i><span>Guide Tour</span></a>
-                    <ul class="nav-submenu menu-content">
-                      <li><a href="scrollable.html">Scrollable</a></li>
-                      <li><a href="tree.html">Tree view</a></li>
-                      <li><a href="bootstrap-notify.html">Bootstrap Notify</a></li>
-                      <li><a href="rating.html">Rating</a></li>
-                      <li><a href="dropzone.html">dropzone</a></li>
-                      <li><a href="tour.html">Tour</a></li>
-                      <li><a href="sweet-alert2.html">SweetAlert2</a></li>
-                      <li><a href="modal-animated.html">Animated Modal</a></li>
-                      <li><a href="owl-carousel.html">Owl Carousel</a></li>
-                      <li><a href="ribbons.html">Ribbons</a></li>
-                      <li><a href="pagination.html">Pagination</a></li>
-                      <li><a href="steps.html">Steps</a></li>
-                      <li><a href="breadcrumb.html">Breadcrumb</a></li>
-                      <li><a href="range-slider.html">Range Slider</a></li>
-                      <li><a href="image-cropper.html">Image cropper</a></li>
-                      <li><a href="sticky.html">Sticky         </a></li>
-                      <li><a href="basic-card.html">Basic Card</a></li>
-                      <li><a href="creative-card.html">Creative Card</a></li>
-                      <li><a href="tabbed-card.html">Tabbed Card</a></li>
-                      <li><a href="dragable-card.html">Draggable Card</a></li>
-                      <li><a class="submenu-title" href="javascript:void(0)">Timeline<span class="sub-arrow"><i class="fa fa-chevron-right"></i></span></a>
-                        <ul class="nav-sub-childmenu submenu-content">
-                          <li><a href="timeline-v-1.html">Timeline 1</a></li>
-                          <li><a href="timeline-v-2.html">Timeline 2</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="nav-link menu-title" href="javascript:void(0)"><i data-feather="shopping-bag"></i><span>Art Shopping</span></a>
-                    <ul class="nav-submenu menu-content">
-                      <li><a href="form-builder-1.html">Form Builder 1</a></li>
-                      <li><a href="form-builder-2.html">Form Builder 2</a></li>
-                      <li><a href="pagebuild.html">Page Builder</a></li>
-                      <li> <a href="button-builder.html">Button Builder</a></li>
-                    </ul>
-                  </li>
+                  <li class="dropdown"><a class="nav-link menu-title link-nav" href="bookmark.html"><i data-feather="map"></i><span>Guide Tour</span></a></li>
+                  <li class="dropdown"><a class="nav-link menu-title link-nav" href="bookmark.html"><i data-feather="shopping-bag"></i><span>Art Shopping</span></a></li>
                   <li class="sidebar-main-title">
                     <div>
                       <h6>Applications</h6>
@@ -347,7 +286,6 @@
     <!-- Plugins JS Ends-->
     <!-- Theme js-->
     <script src="{{ URL::to('../assets/js/script.js') }}"></script>
-    <script src="{{ URL::to('../assets/js/theme-customizer/customizer.js') }}"></script>
     <!-- login js-->
     <!-- Plugin used-->
   </body>
